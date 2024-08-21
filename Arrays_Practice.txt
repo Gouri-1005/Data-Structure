@@ -2,3 +2,6 @@ Array1 practice link: https://bit.ly/3Pld280
 Array2 practice link: https://bit.ly/3Pld280
 Array3 practice link: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
 Array4 practice link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+Array5 practice link: https://leetcode.com/problems/rotate-array/description/
+Array6 practice link: https://leetcode.com/problems/rotate-array/description/
+Array7 practice link: https://leetcode.com/problems/move-zeroes/description/
