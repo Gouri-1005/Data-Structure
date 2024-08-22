@@ -1,4 +1,4 @@
-// sorted array search
+// Sorted array search
 
 #include <iostream>
 using namespace std;
