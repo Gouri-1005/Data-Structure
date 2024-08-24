@@ -6,4 +6,13 @@ Array4 practice link: https://leetcode.com/problems/remove-duplicates-from-sorte
 Array5 practice link: https://leetcode.com/problems/rotate-array/description/
 Array6 practice link: https://leetcode.com/problems/rotate-array/description/
 Array7 practice link: https://leetcode.com/problems/move-zeroes/description/
-
+Array8 practice link: https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1
+Array9 practice link: https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
+Array10 practice link: https://leetcode.com/problems/missing-number/description/
+Array11 practice link: https://leetcode.com/problems/max-consecutive-ones/description/
+Array12 practice link: https://leetcode.com/problems/single-number/description/
+Array13 practice link: https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+Array14 practice link: https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+Array15 practice link: https://leetcode.com/problems/two-sum/description/
+Array16 practice link: https://leetcode.com/problems/sort-colors/description/
+Array17 practice link: https://leetcode.com/problems/majority-element/description/
