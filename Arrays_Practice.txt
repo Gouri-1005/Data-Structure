@@ -16,4 +16,3 @@ Array14 practice link: https://www.geeksforgeeks.org/problems/longest-sub-array-
 Array15 practice link: https://leetcode.com/problems/two-sum/description/
 Array16 practice link: https://leetcode.com/problems/sort-colors/description/
 Array17 practice link: https://leetcode.com/problems/majority-element/description/
-
