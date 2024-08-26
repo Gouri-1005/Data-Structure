@@ -20,3 +20,6 @@ Array19 practice link: https://www.geeksforgeeks.org/problems/max-sum-in-sub-arr
 Array20 practice link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 Array21 practice link: https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
 Array22 practice link: https://leetcode.com/problems/next-permutation/description/
+Array23 practice link: https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+Array24 practice link: https://leetcode.com/problems/longest-consecutive-sequence/editorial/
+Array25 practice link: https://leetcode.com/problems/set-matrix-zeroes/description/
